@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <rolex>
-            <Filename>liquid_remix-9.1.1-20180608-rolex.zip</Filename>
+            <Filename>9.1.1-20180608-rolex.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
