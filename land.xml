@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <land>
-            <Filename>9.1.1-20180608-land.zip</Filename>
+            <Filename>9.1.1-20180610-land.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
