@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <land>
-            <Filename></Filename>
+            <Filename>9.1.1-20180608-land.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for land"></RomUrl>
+                description="Download latest build for land">https://www.androidfilehost.com/?fid=746163614322269278</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
