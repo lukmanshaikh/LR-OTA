@@ -6,11 +6,11 @@
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for land">https://sourceforge.net/projects/liquidremix4land/files/Stable/liquid_remix-9.1.2-20180625-OFFICIAL-land.zip/download</RomUrl>
+                description="Download latest build for land">https://sourceforge.net/projects/liquidremix4land/files/Stable/liquid_remix-9.1.3-20180714-OFFICIAL-land.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Click here to view latest changes">https://sourceforge.net/projects/liquidremix4land/files/Stable/changelog_20180625.txt/download</ChangelogUrl>
+                description="Click here to view latest changes">https://sourceforge.net/projects/liquidremix4land/files/Stable/LR_9.1.3_land.txt/download</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
